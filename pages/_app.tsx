@@ -2,6 +2,7 @@
 import 'styles/utilities.css';
 
 // Pages app style
+import 'styles/navbar-log-in.css';
 import 'styles/homepage.css';
 import 'styles/detail.css';
 import 'styles/checkout.css';
